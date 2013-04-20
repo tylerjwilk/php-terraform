@@ -1,20 +1,21 @@
-<?php
+<?
+
+// TODO
 
 #doc
-#    classname:    Terraform_Filter
+#    classname:    Terraform_File
 #    scope:        PUBLIC
 # description: 
 #
 #/doc
 
-class Terraform_Filter implements Terraform_Filter_Interface
+class Terraform_File 
 {
-
     /*
      * Constructor
      */
     function __construct ()
-    {
+    {        
     }
 
 }
