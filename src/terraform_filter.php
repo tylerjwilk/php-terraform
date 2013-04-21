@@ -10,12 +10,21 @@
 class Terraform_Filter implements Terraform_Filter_Interface
 {
 
-    /*
-     * Constructor
-     */
-    function __construct ()
+    function isMatch()
     {
+
     }
+
+    function setData($data)
+    {
+
+    }
+
+    function applyFilter()
+    {
+
+    }
+
 
 }
 
